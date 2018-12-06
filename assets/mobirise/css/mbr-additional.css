@@ -1830,6 +1830,39 @@ body {
     padding-right: 3rem;
   }
 }
+.cid-rbtssc5ebL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #141b4d;
+}
+.cid-rbtssc5ebL .card-wrapper {
+  z-index: 3;
+}
+.cid-rbtssc5ebL .card-wrapper .mbr-section-title {
+  letter-spacing: 1px;
+  transition: all 2.5s cubic-bezier(0, 0.74, 0.52, 1.2);
+}
+.cid-rbtssc5ebL:hover .mbr-section-title {
+  letter-spacing: 10px;
+}
+.cid-rbtssc5ebL .full-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 0;
+  z-index: 2;
+}
+.cid-rbtssc5ebL .popup-btn.card-wrapper {
+  z-index: 1 !important;
+}
+.cid-rbtssc5ebL .text-block {
+  text-align: right !important;
+}
+.cid-rbtssc5ebL H2 {
+  text-align: center;
+}
 .cid-rbtncQsQTq .mbr-overlay {
   background: #a2aaad;
   background: linear-gradient(45deg, #a2aaad, #000000);
