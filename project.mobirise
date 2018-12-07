@@ -513,7 +513,7 @@
                 "size": "60%",
                 "padding-left": "4rem",
                 "position": "relative",
-                "right": "75%"
+                "right": "79%"
               }
             },
             "@media (max-width: 991px)": {
