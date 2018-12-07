@@ -1274,6 +1274,23 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-rbyCQ7WvV1 {
+  overflow: hidden !important;
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #141b4d;
+}
+.cid-rbyCQ7WvV1 .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rbyCQ7WvV1 .animated-element {
+  color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rbyCQ7WvV1 .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-rbtl2KGRtQ .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
@@ -1627,7 +1644,7 @@ body {
 }
 .cid-rbyt67bImD {
   display: flex;
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 120px;
 }
 .cid-rbyt67bImD .mbr-overlay {
@@ -1686,23 +1703,6 @@ body {
   .cid-rbyt67bImD .header-content {
     margin-right: 0;
     margin-left: 0;
-  }
-}
-.cid-rbyCQ7WvV1 {
-  overflow: hidden !important;
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #141b4d;
-}
-.cid-rbyCQ7WvV1 .container-fluid {
-  padding: 0 3rem;
-}
-.cid-rbyCQ7WvV1 .animated-element {
-  color: #efefef;
-}
-@media (max-width: 767px) {
-  .cid-rbyCQ7WvV1 .container-fluid {
-    padding: 0 1rem;
   }
 }
 .cid-rbziTAxZrk {
