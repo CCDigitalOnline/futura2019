@@ -920,7 +920,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "postToLoad": "5",
+            "postToLoad": "8",
             "facebook": "Futura-Systems-166428643386954",
             "twitter": "FuturaGIS",
             "google": "",
