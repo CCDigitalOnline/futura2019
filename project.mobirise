@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -921,7 +921,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "postToLoad": "5",
-            "facebook": "",
+            "facebook": "Futura-Systems-166428643386954",
             "twitter": "FuturaGIS",
             "google": "",
             "youtube": "",
