@@ -1705,67 +1705,127 @@ body {
     margin-left: 0;
   }
 }
-.cid-rj6XQGPjZ2 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ff8200;
+.cid-rbtn7x9ynx {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-rj6XQGPjZ2 .img-wrap {
-  width: 100% !important;
-  height: 100% !important;
+.cid-rbtn7x9ynx .container-fluid {
+  padding: 0 3rem;
 }
-.cid-rj6XQGPjZ2 .row-element,
-.cid-rj6XQGPjZ2 .image-element {
-  padding: 0;
+.cid-rbtn7x9ynx .blockquote-quote svg {
+  height: 30px;
+  width: 30px;
 }
-.cid-rj6XQGPjZ2 .image-element {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
+.cid-rbtn7x9ynx svg.svg-gradient {
+  position: absolute;
+  opacity: 0;
+  z-index: -100;
 }
-.cid-rj6XQGPjZ2 .image-element img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
+.cid-rbtn7x9ynx .signature > span {
+  color: #ff8200;
 }
-.cid-rj6XQGPjZ2 .underline {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-.cid-rj6XQGPjZ2 .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #ff8200, #00a3e0);
-  display: inline-block;
-}
-@media (min-width: 1500px) {
-  .cid-rj6XQGPjZ2 .text-content {
-    padding: 5rem;
+@media (max-width: 767px) {
+  .cid-rbtn7x9ynx .blockquote-quote {
+    text-align: left;
+  }
+  .cid-rbtn7x9ynx .container-fluid {
+    padding: 0 1rem;
   }
 }
-@media (min-width: 768px) and (max-width: 1499px) {
-  .cid-rj6XQGPjZ2 .text-content {
-    padding: 3rem;
+.cid-rbtn7x9ynx .mbr-section-title {
+  color: #141b4d;
+}
+.cid-rbtn7x9ynx .mbr-text,
+.cid-rbtn7x9ynx .blockquote-quote {
+  color: #141b4d;
+}
+.cid-rgBS3olTDQ {
+  overflow-x: hidden !important;
+}
+.cid-rgBS3olTDQ .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rgBS3olTDQ .scroll-wrapper {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-position: 100% 0;
+  background-size: cover;
+  position: absolute;
+  background-repeat: repeat;
+  z-index: 0;
+  -webkit-animation-duration: 35s !important;
+  animation-duration: 35s;
+  background-image: url("../../../assets/images/bigstock-register-typographic-stamp-si-280018453-900x502.jpg");
+  -webkit-animation: scroll-wrapper linear infinite;
+  -moz-animation: scroll-wrapper linear infinite;
+  -o-animation: scroll-wrapper linear infinite;
+  animation: scroll-wrapper linear infinite;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+.cid-rgBS3olTDQ .scroll-wrapper.second {
+  left: calc(100% - 1px);
+  background-position: 0 0;
+}
+.cid-rgBS3olTDQ .mbr-overlay {
+  z-index: 1;
+}
+.cid-rgBS3olTDQ .block-content {
+  z-index: 2;
+}
+@keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-webkit-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-moz-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-o-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
   }
 }
 @media (max-width: 767px) {
-  .cid-rj6XQGPjZ2 .text-content {
-    padding: 2rem 1rem;
-  }
-  .cid-rj6XQGPjZ2 .underline .line {
-    height: 2px;
-  }
-  .cid-rj6XQGPjZ2 .mbr-title,
-  .cid-rj6XQGPjZ2 .underline,
-  .cid-rj6XQGPjZ2 .mbr-text,
-  .cid-rj6XQGPjZ2 .mbr-section-btn {
-    text-align: center !important;
+  .cid-rgBS3olTDQ .container-fluid {
+    padding: 0 1rem;
   }
 }
-.cid-rj6XQGPjZ2 .mbr-title,
-.cid-rj6XQGPjZ2 .underline {
-  color: #1d428a;
+.cid-rgBS3olTDQ .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rgBS3olTDQ .mbr-section-subtitle,
+.cid-rgBS3olTDQ .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rbziTAxZrk {
   background-color: #ffffff;
@@ -1952,67 +2012,10 @@ body {
     width: 100% !important;
   }
 }
-.cid-rbtn7x9ynx {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rbtn7x9ynx .container-fluid {
-  padding: 0 3rem;
-}
-.cid-rbtn7x9ynx .blockquote-quote svg {
-  height: 30px;
-  width: 30px;
-}
-.cid-rbtn7x9ynx svg.svg-gradient {
-  position: absolute;
-  opacity: 0;
-  z-index: -100;
-}
-.cid-rbtn7x9ynx .signature > span {
-  color: #ff8200;
-}
-@media (max-width: 767px) {
-  .cid-rbtn7x9ynx .blockquote-quote {
-    text-align: left;
-  }
-  .cid-rbtn7x9ynx .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-rbtn7x9ynx .mbr-section-title {
-  color: #141b4d;
-}
-.cid-rbtn7x9ynx .mbr-text,
-.cid-rbtn7x9ynx .blockquote-quote {
-  color: #141b4d;
-}
-.cid-rbtPxhRK67 {
-  background: #ffffff;
-  background: linear-gradient(135deg, #ffffff, #52bdf1);
-}
-.cid-rbtPxhRK67 .container-fluid {
-  padding: 0 3rem;
-}
-.cid-rbtPxhRK67 .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rbtPxhRK67 .image-block img {
-  width: 100%;
-}
-@media (max-width: 767px) {
-  .cid-rbtPxhRK67 .container-fluid {
-    padding: 0 1rem;
-  }
-  .cid-rbtPxhRK67 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rcNQdqsgiZ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ff8200;
+  background-color: #141b4d;
 }
 .cid-rcNQdqsgiZ .container-fluid {
   padding: 0 3rem;
@@ -2047,92 +2050,27 @@ body {
 .cid-rcNQdqsgiZ .mbr-text SPAN {
   color: #141b4d;
 }
-.cid-rgBS3olTDQ {
-  overflow-x: hidden !important;
+.cid-rbtPxhRK67 {
+  background: #ffffff;
+  background: linear-gradient(135deg, #ffffff, #52bdf1);
 }
-.cid-rgBS3olTDQ .container-fluid {
+.cid-rbtPxhRK67 .container-fluid {
   padding: 0 3rem;
 }
-.cid-rgBS3olTDQ .scroll-wrapper {
-  top: 0;
+.cid-rbtPxhRK67 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rbtPxhRK67 .image-block img {
   width: 100%;
-  height: 100%;
-  background-position: 100% 0;
-  background-size: cover;
-  position: absolute;
-  background-repeat: repeat;
-  z-index: 0;
-  -webkit-animation-duration: 35s !important;
-  animation-duration: 35s;
-  background-image: url("../../../assets/images/bigstock-register-typographic-stamp-si-280018453-900x502.jpg");
-  -webkit-animation: scroll-wrapper linear infinite;
-  -moz-animation: scroll-wrapper linear infinite;
-  -o-animation: scroll-wrapper linear infinite;
-  animation: scroll-wrapper linear infinite;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-}
-.cid-rgBS3olTDQ .scroll-wrapper.second {
-  left: calc(100% - 1px);
-  background-position: 0 0;
-}
-.cid-rgBS3olTDQ .mbr-overlay {
-  z-index: 1;
-}
-.cid-rgBS3olTDQ .block-content {
-  z-index: 2;
-}
-@keyframes scroll-wrapper {
-  0% {
-    -webkit-transform: translateX(0);
-    transform: translateX(0);
-  }
-  100% {
-    -webkit-transform: translateX(-100%);
-    transform: translateX(-100%);
-  }
-}
-@-webkit-keyframes scroll-wrapper {
-  0% {
-    -webkit-transform: translateX(0);
-    transform: translateX(0);
-  }
-  100% {
-    -webkit-transform: translateX(-100%);
-    transform: translateX(-100%);
-  }
-}
-@-moz-keyframes scroll-wrapper {
-  0% {
-    -webkit-transform: translateX(0);
-    transform: translateX(0);
-  }
-  100% {
-    -webkit-transform: translateX(-100%);
-    transform: translateX(-100%);
-  }
-}
-@-o-keyframes scroll-wrapper {
-  0% {
-    -webkit-transform: translateX(0);
-    transform: translateX(0);
-  }
-  100% {
-    -webkit-transform: translateX(-100%);
-    transform: translateX(-100%);
-  }
 }
 @media (max-width: 767px) {
-  .cid-rgBS3olTDQ .container-fluid {
+  .cid-rbtPxhRK67 .container-fluid {
     padding: 0 1rem;
   }
-}
-.cid-rgBS3olTDQ .mbr-section-title {
-  color: #ffffff;
-}
-.cid-rgBS3olTDQ .mbr-section-subtitle,
-.cid-rgBS3olTDQ .mbr-section-btn {
-  color: #ffffff;
+  .cid-rbtPxhRK67 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rbzfQKHey6 {
   padding-top: 45px;
@@ -2208,7 +2146,7 @@ body {
 .cid-rbypxPPdqk {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ff8200;
+  background-color: #ffffff;
 }
 .cid-rbypxPPdqk .card-wrapper {
   z-index: 3;
@@ -2237,6 +2175,7 @@ body {
 }
 .cid-rbypxPPdqk H2 {
   text-align: center;
+  color: #141b4d;
 }
 .cid-rbys4i7ELI {
   padding-top: 30px;
