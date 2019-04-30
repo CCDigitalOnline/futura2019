@@ -2110,38 +2110,25 @@ body {
 .cid-rbzfQKHey6 .underline {
   color: #ffffff;
 }
-.cid-rp5ZpIGHBo {
-  padding-top: 15px;
-  padding-bottom: 30px;
+.cid-rp5ZV1PU7a {
+  padding-top: 150px;
+  padding-bottom: 150px;
   background-image: url("../../../assets/images/atlas-close-up-dark-592753-2000x976.jpg");
 }
-.cid-rp5ZpIGHBo .card-wrapper {
-  z-index: 3;
+.cid-rp5ZV1PU7a .container-fluid {
+  padding: 0 3rem;
 }
-.cid-rp5ZpIGHBo .card-wrapper .mbr-section-title {
-  letter-spacing: 1px;
-  transition: all 2.5s cubic-bezier(0, 0.74, 0.52, 1.2);
+.cid-rp5ZV1PU7a .media-container-column {
+  padding: 0 2rem;
 }
-.cid-rp5ZpIGHBo:hover .mbr-section-title {
-  letter-spacing: 10px;
+.cid-rp5ZV1PU7a .mbr-section-title {
+  display: inline-block;
+  position: relative;
 }
-.cid-rp5ZpIGHBo .full-link {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  font-size: 0;
-  z-index: 2;
-}
-.cid-rp5ZpIGHBo .popup-btn.card-wrapper {
-  z-index: 1 !important;
-}
-.cid-rp5ZpIGHBo .text-block {
-  text-align: right !important;
-}
-.cid-rp5ZpIGHBo H2 {
-  text-align: center;
+@media (max-width: 767px) {
+  .cid-rp5ZV1PU7a .container-fluid {
+    padding: 0 1rem;
+  }
 }
 .cid-rbtn9tafDX {
   padding-top: 0px;
